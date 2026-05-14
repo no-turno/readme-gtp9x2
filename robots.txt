@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://no-turno.github.io/readme-gtp9x2/sitemap.xml
